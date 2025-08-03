@@ -1,0 +1,1 @@
+This is a captsone project which is to be made using machine learning and mlops pratices . the tools and the tech stack which has to be used in this poject is aws , dagshub , mlflow , dvc , graphana and prometheues like visualization tools
